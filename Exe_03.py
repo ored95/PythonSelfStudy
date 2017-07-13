@@ -1,0 +1,5 @@
+print(3 + 2 > 5 + 7)
+print("Is it greater?", 3 > -2)
+print("Roosters", 100 - 25 * 3 % 4)
+print(7.0/4.0)
+print(7/4)
