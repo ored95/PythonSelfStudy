@@ -7,3 +7,4 @@
 + Exercise 05: _Arguments and Options. library sys (sys.argv), getopt_
 + Exercise 06: _Data types_
 + Exercise 07: _Data type conversion. Bitwise operators_
++ Exercise 08: _Operators in and is_
