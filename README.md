@@ -6,3 +6,4 @@
 + Exercise 04: _Variables And Names_
 + Exercise 05: _Arguments and Options. library sys (sys.argv), getopt_
 + Exercise 06: _Data types_
++ Exercise 07: _Data type conversion. Bitwise operators_
