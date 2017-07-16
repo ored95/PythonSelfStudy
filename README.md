@@ -9,3 +9,9 @@
 + Exercise 07: _Data type conversion. Bitwise operators_
 + Exercise 08: _Operators in and is_
 + Exercise 09: _Applying Loops in the Prime problem_
++ Exercise 10: _String_
+
+**Images**_(Format: PNG)_
++ _Bitwise Operators_
++ _Data Type Conversion_
++ _String Functions_
