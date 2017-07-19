@@ -10,8 +10,9 @@
 + Exercise 08: _Operators in and is_
 + Exercise 09: _Applying Loops in the Prime problem_
 + Exercise 10: _String_
++ Exercise 11: _List_
 
-**Images**_(Format: PNG)_
+**Images** _(Format: PNG)_
 + _Bitwise Operators_
 + _Data Type Conversion_
 + _String Functions_
