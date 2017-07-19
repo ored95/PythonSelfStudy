@@ -16,3 +16,4 @@
 + _Bitwise Operators_
 + _Data Type Conversion_
 + _String Functions_
++ _List methods_
