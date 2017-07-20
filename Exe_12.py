@@ -1,4 +1,4 @@
-# Tuples (3 types to set a tuple
+# Tuples (3 types to set a tuple)
 tup1 = ('physic', 'math', 'chemistry', 2, 3)
 print(tup1)
 
