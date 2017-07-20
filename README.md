@@ -11,6 +11,7 @@
 + Exercise 09: _Applying Loops in the Prime problem_
 + Exercise 10: _String_
 + Exercise 11: _List_
++ Exercise 12: _Tuple_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
