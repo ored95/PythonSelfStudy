@@ -25,3 +25,41 @@ print(type(dict))
 print(type(dict['Age']))
 
 # Dictionary methods
+dict.clear()
+print(len(dict))
+
+D1 = {1: 'one', 2: 'two', 3: 'three'}
+D2 = D1.copy()
+print(D2)
+
+seq = ('first', 'second', 'third')
+D = dict.fromkeys(seq)
+print(D)
+
+D = dict.fromkeys(seq, 10)
+print(D)
+
+D.clear()
+D = {'Name': 'Zebra', 'Age': 7}
+print("Age:", D.get('Age'))
+print("Height:", D.get('Height', 'No given'))
+
+# print(D.has_key('Age'))
+# print(D.has_key('Height'))
+
+# Items() returns a list of dict's (key, value) tuple pairs
+print(D.items())
+print(D.keys())
+print(D.values())
+
+# Setdefault() returns the key value available in the dictionary and
+# if given key is not available then it will return provided default value.
+print("Value:", D.setdefault('Age', None))
+print("Value:", D.setdefault('Height', None))
+print(D)
+
+# Update dictionary
+D1 = {'Name': 'Zebra', 'Age': 7}
+D2 = {'Height': 5}
+D1.update(D2)
+print(D1)
