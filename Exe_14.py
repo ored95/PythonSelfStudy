@@ -167,7 +167,3 @@ print("Returned tuple:", struct_time)
 # Example of time()
 print(time.time())
 print(time.asctime())
-
-
-
-

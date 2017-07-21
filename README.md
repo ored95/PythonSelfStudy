@@ -13,6 +13,7 @@
 + Exercise 11: _List_
 + Exercise 12: _Tuple_
 + Exercise 13: _Dictionary_
++ Exercise 14: _Time_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
@@ -20,3 +21,4 @@
 + _String Functions_
 + _List methods_
 + _Dictionary methods_
++ _Time module_
