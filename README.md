@@ -16,6 +16,7 @@
 + Exercise 14: _Time_
 + Exercise 15: _Function_
 + Exercise 16: _Module. Package_
++ Exercise 17: _Files I/O_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
@@ -24,3 +25,7 @@
 + _List methods_
 + _Dictionary methods_
 + _Time module_
++ _File modes_
++ _File attributes_
++ _File/Directory Methods_
++ _OS Objects Methods (3 parts)_
