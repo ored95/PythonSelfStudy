@@ -15,6 +15,7 @@
 + Exercise 13: _Dictionary_
 + Exercise 14: _Time_
 + Exercise 15: _Function_
++ Exercise 16: _Module. Package_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
