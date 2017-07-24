@@ -17,6 +17,7 @@
 + Exercise 15: _Function_
 + Exercise 16: _Module. Package_
 + Exercise 17: _Files I/O_
++ Exercise 18: _Class. OOP in Python_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
@@ -29,3 +30,5 @@
 + _File attributes_
 + _File/Directory Methods_
 + _OS Objects Methods (3 parts)_
+
+_*Note: Python - Exceptions_
