@@ -1,8 +1,8 @@
 # File. Input/Output
 
-#name = input("What is your name? ")
+name = input("What is your name? ")
 
-#print("Your name is", name)
+print("Your name is", name)
 
 # ============ OPENING and CLOSING Files =============
 # Syntax (opening_
@@ -27,7 +27,7 @@ fo = open("temp/foo.txt", "w")
 print("Name of the file: ", fo.name)
 print("Closed or not : ", fo.closed)
 print("Opening mode : ", fo.mode)
-# print("Softspace flag : ", fo.softspace)
+print("Softspace flag : ", fo.softspace)
 
 fo.write("Python is a great language.\nYeah its great!!\n")
 
