@@ -18,6 +18,7 @@
 + Exercise 16: _Module. Package_
 + Exercise 17: _Files I/O_
 + Exercise 18: _Class. OOP in Python_
++ Exercise 19: _Regular expressions_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
@@ -30,5 +31,7 @@
 + _File attributes_
 + _File/Directory Methods_
 + _OS Objects Methods (3 parts)_
++ _Regular-Expression Modifiers: Option Flags_
++ _Regular-Expression Patterns_
 
 _*Note: Python - Exceptions_
