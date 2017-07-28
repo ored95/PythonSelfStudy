@@ -21,6 +21,7 @@
 + Exercise 19: _Regular expressions_
 + Exercise 20: _CGI_
 + Exercise 21: _Database Access_
++ Exercise 22: _Socket_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
