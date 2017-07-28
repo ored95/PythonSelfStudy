@@ -22,6 +22,11 @@
 + Exercise 20: _CGI_
 + Exercise 21: _Database Access_
 + Exercise 22: _Socket_
++ Exercise 23: _Sending E-mail_
++ Exercise 24: _Thread_
++ Exercise 25: _XML_
++ Exercise 26: _GUI_
++ Exercise 27: _Further Extentions_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
