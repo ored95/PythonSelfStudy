@@ -19,6 +19,8 @@
 + Exercise 17: _Files I/O_
 + Exercise 18: _Class. OOP in Python_
 + Exercise 19: _Regular expressions_
++ Exercise 20: _CGI_
++ Exercise 21: _Database Access_
 
 **Images** _(Format: PNG)_
 + _Bitwise Operators_
