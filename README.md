@@ -36,5 +36,6 @@
 + _OS Objects Methods (3 parts)_
 + _Regular-Expression Modifiers: Option Flags_
 + _Regular-Expression Patterns_
++ _Internet modules_
 
 _*Note: Python - Exceptions_
